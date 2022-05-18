@@ -1,0 +1,20 @@
+/*Reset all pages*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Inter', sans-serif;;
+    color: #1C1C1C;
+}
+
+body {
+    background: url(/src/elements__pag1/background.png);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
